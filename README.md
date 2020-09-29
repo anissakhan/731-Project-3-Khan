@@ -2,7 +2,7 @@
 
 ### Scope
 
-The datasets used in this project (linked below) contain movie review data from MovieLens, a movie recommendation service. The purpose of this project is to use a clustering model to find pockets of similar datapoints that can then be used to recommend movies to similar users.
+The datasets used in this project (linked below) contain movie review data from MovieLens, a movie recommendation service. The purpose of this project is to use clustering models to find pockets of similar datapoints that can then be used to recommend movies to similar users.
 
 ### Results
 
